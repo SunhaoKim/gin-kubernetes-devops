@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc0a6"],{"4bdf":function(c,e,n){c.exports=n.p+"static/img/receive-task.e1131038.svg"}}]);

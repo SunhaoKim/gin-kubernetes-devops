@@ -13,3 +13,94 @@
 2021/12/08 - 10:19:16.996	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
 2021/12/08 - 10:19:16.996	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
 2021/12/08 - 10:30:59.167	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 10:41:44.777	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 10:41:44.794	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 10:41:44.794	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 10:41:44.795	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 10:41:44.796	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 10:41:44.797	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 10:41:53.653	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 10:53:55.995	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 10:53:56.029	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 10:53:56.029	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 10:53:56.029	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 10:53:56.030	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 10:53:56.031	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 10:54:12.833	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 10:54:51.991	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 10:54:52.010	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 10:54:52.010	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 10:54:52.011	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 10:54:52.012	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 10:54:52.013	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 10:55:20.389	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 10:55:30.387	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 10:55:30.410	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 10:55:30.410	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 10:55:30.411	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 10:55:30.412	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 10:55:30.412	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 10:58:42.506	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 11:34:31.198	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 11:34:31.217	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 11:34:31.217	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 11:34:31.218	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 11:34:31.219	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 11:34:31.219	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 11:36:31.958	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:17:44.881	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:17:44.904	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:17:44.904	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:17:44.904	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:17:44.906	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:17:44.906	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:44:33.811	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:44:40.547	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:44:40.577	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:44:40.577	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:44:40.577	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:44:40.579	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:44:40.579	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:45:03.252	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:45:06.968	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:45:06.984	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:45:06.984	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:45:06.984	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:45:06.985	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:45:06.986	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:50:06.741	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:50:11.393	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:50:11.416	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:50:11.416	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:50:11.416	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:50:11.417	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:50:11.418	[34minfo[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:50:13.706	[31merror[0m	/mnt/d/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:50:26.517	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:50:26.540	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:50:26.540	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:50:26.540	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:50:26.541	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:50:26.542	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:53:35.496	[31merror[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:53:46.743	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:53:46.763	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:53:46.763	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:53:46.763	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:53:46.764	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:53:46.765	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:54:44.580	[31merror[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 15:54:56.562	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 15:54:56.580	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 15:54:56.581	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 15:54:56.581	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 15:54:56.582	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 15:54:56.582	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 15:58:34.028	[31merror[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/08 - 16:51:36.177	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/08 - 16:51:36.261	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/08 - 16:51:36.261	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/08 - 16:51:36.262	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/08 - 16:51:36.263	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/08 - 16:51:36.263	[34minfo[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/08 - 17:03:59.555	[31merror[0m	/mnt/c/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection

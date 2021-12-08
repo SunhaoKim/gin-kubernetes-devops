@@ -98,8 +98,9 @@ func UpdateK8sCluster(c *gin.Context) {
 // @Router /k8sCluster/findK8sCluster [get]
 func FindK8sCluster(c *gin.Context) {
 	var K8sCluster model.K8sCluster
-	_ = c.ShouldBindQuery(&K8sCluster)
-	if reK8sCluster,err := service.GetK8sCluster(K8sCluster.ID); err != nil {
+	c.ShouldBindQuery(&K8sCluster)
+	fmt.Print(K8sCluster.ID)
+	if reK8sCluster, err := service.GetK8sCluster(K8sCluster.ID); err != nil {
 		global.GVA_LOG.Error("查询失败!", zap.Any("err", err))
 		response.FailWithMessage("查询失败", c)
 	} else {

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d43d7"],{"5fd4":function(n,t,a){"use strict";a.r(t),a.d(t,"initData",(function(){return r}));var d=a("b775");function r(n){return Object(d["default"])({url:"/api/v1/dashboard",method:"get",params:n})}}}]);

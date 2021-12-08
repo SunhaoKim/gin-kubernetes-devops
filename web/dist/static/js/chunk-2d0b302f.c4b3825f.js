@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b302f"],{"270d":function(n,i,o){n.exports=o.p+"static/img/icon_decision.e114904f.svg"}}]);

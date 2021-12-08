@@ -292,6 +292,14 @@ export default {
                 clusterVersion: 0,
             };
         },
+        async findK8sCluster(row) {
+            const res = await findK8sCluster({ ID: row.ID });
+            this.type = "find";
+            if (res.code == 0) {
+                this.formData = res.data.reK8sCluster;
+                this.dialogFormVisible = true;
+            }
+        },
         async deleteK8sCluster(row) {
             this.visible = false;
             const res = await deleteK8sCluster({ ID: row.ID });
@@ -318,6 +326,9 @@ export default {
                     break;
                 case "update":
                     res = await updateK8sCluster(this.formData);
+                    break;
+                case "find":
+                    res = await findK8sCluster(this.formData);
                     break;
                 default:
                     res = await createK8sCluster(this.formData);

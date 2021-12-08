@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b68b9"],{"1e2a":function(n,c,o){n.exports=o.p+"static/img/icon_arch.71fa5e11.svg"}}]);

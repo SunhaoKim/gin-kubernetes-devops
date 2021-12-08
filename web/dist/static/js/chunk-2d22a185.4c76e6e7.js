@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22a185"],{dff3:function(a,n,p){a.exports=p.p+"static/img/mail-task.26ac1054.svg"}}]);
