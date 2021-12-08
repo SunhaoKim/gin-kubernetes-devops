@@ -1,0 +1,14 @@
+2021/12/01 - 15:17:55.372	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:71	MySQL启动异常	{"err": "Error 1049: Unknown database 'gin-vue-devops'"}
+2021/12/01 - 15:41:38.565	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/01 - 15:41:38.565	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/01 - 15:41:38.565	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/01 - 15:41:38.565	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/01 - 15:41:38.566	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/01 - 15:41:38.566	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/01 - 15:55:30.945	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/01 - 16:15:18.673	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/01 - 16:15:18.673	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/01 - 16:15:18.673	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/01 - 16:15:18.673	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/01 - 16:15:18.675	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/01 - 16:15:18.675	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}

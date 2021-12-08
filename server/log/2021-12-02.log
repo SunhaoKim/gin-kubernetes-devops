@@ -1,0 +1,3 @@
+2021/12/02 - 11:25:37.231	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/02 - 11:25:37.232	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/02 - 11:36:27.772	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/exa_file_upload_download.go:51	删除失败!	{"err": "文件删除失败"}

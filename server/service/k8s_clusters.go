@@ -50,12 +50,14 @@ func UpdateK8sCluster(K8sCluster model.K8sCluster) (err error) {
 //@description: 根据id获取K8sCluster记录
 //@param: id uint
 //@return: err error, K8sCluster model.K8sCluster
-
-func GetK8sCluster(id uint) (err error, K8sCluster model.K8sCluster) {
-	err = global.GVA_DB.Where("id = ?", id).First(&K8sCluster).Error
-	return
+func GetK8sCluster(id uint) (K8sCluster model.K8sCluster, err error) {
+	query := global.GVA_DB.Where("id = ?", id).First(&K8sCluster)
+	err = query.Error
+	if err != nil {
+		panic(err)
+	}
+	return K8sCluster, err
 }
-
 //@function: GetK8sClusterInfoList
 //@description: 分页获取K8sCluster列表
 //@param: info request.K8sClusterSearch

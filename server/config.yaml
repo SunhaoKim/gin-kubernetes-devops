@@ -17,11 +17,11 @@ zap:
 
 # mysql configuration
 mysql:
-  path: '127.0.0.1:3306'
+  path: '127.0.0.1:31000'
   config: 'charset=utf8mb4&parseTime=True&loc=Local'
-  db-name: 'gin-vue-devops'
+  db-name: 'devops'
   username: 'root'
-  password: '123456'
+  password: 'a123456'
   max-idle-conns: 10
   max-open-conns: 100
   log-mode: false
@@ -30,8 +30,8 @@ mysql:
 # redis configuration
 redis:
   db: 0
-  addr: '127.0.0.1:6379'
-  password: ''
+  addr: '127.0.0.1:32000'
+  password: 'hZAiMThpcm'
 
 # email configuration
 email:
@@ -41,7 +41,6 @@ email:
   host: 'smtp.163.com'
   is-ssl: true
   secret: 'xxx'
-  nickname: 'test111'
 
 # casbin configuration
 casbin:

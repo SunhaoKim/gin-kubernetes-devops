@@ -1,0 +1,120 @@
+2021/12/07 - 17:04:12.018	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:04:12.024	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:04:18.479	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:04:18.480	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:04:29.979	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:04:29.979	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:04:30.246	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:04:30.246	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:04:30.425	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:04:30.425	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:04:30.672	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:04:30.672	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:06:11.421	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:06:12.618	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:06:29.735	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/common.go:18	获取集群失败	{"err": "record not found"}
+2021/12/07 - 17:06:29.735	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/utils/k8s_common.go:20	KubeConfig内容错误	{"err": "invalid configuration: no configuration has been provided, try setting KUBERNETES_MASTER environment variable", "errCauses": [{"error": "no configuration has been provided, try setting KUBERNETES_MASTER environment variable"}]}
+2021/12/07 - 17:06:34.277	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:07:57.142	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:09:12.749	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:09:15.256	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:09:15.257	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:09:15.257	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:09:15.257	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:09:15.258	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:09:15.259	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 17:09:27.210	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:10:02.834	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:10:05.329	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:15:01.540	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:16:30.920	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:16:30.921	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:16:30.921	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:16:30.921	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:16:30.922	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:16:30.922	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 17:16:45.211	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:17:15.488	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:17:24.085	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:20:28.181	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:23:02.091	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:23:02.092	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:23:02.092	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:23:02.092	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:23:02.093	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:23:02.093	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 17:25:50.264	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:38:38.636	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:38:59.358	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:38:59.359	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:38:59.359	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:38:59.359	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:38:59.360	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:38:59.360	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 17:39:04.884	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:39:33.918	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:39:57.329	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:39:58.384	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:39:58.652	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:45:24.507	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:51:25.996	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:52:05.928	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:52:05.928	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:52:05.928	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:52:05.928	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:52:05.930	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:52:05.930	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 17:52:13.300	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:52:54.947	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:53:17.835	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:53:17.835	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:53:17.835	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:53:17.836	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:53:17.837	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:53:17.837	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 17:53:23.826	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:53:32.010	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:53:32.614	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 17:56:29.532	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 17:56:50.556	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 17:56:50.556	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 17:56:50.556	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 17:56:50.557	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 17:56:50.558	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 17:56:50.558	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 18:00:15.236	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 18:00:38.869	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 18:00:38.869	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 18:00:38.869	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 18:00:38.869	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 18:00:38.870	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 18:00:38.870	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 18:04:55.197	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 18:05:18.742	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 18:05:18.742	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 18:05:18.742	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 18:05:18.743	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 18:05:18.744	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 18:05:18.744	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 18:05:25.018	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/api/v1/k8s_clusters.go:103	查询失败!	{"err": "record not found"}
+2021/12/07 - 18:07:14.339	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 18:07:39.181	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 18:07:39.181	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 18:07:39.181	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 18:07:39.181	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 18:07:39.183	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 18:07:39.183	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 18:19:18.515	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 18:31:03.549	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 18:31:03.549	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 18:31:03.549	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 18:31:03.550	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 18:31:03.551	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 18:31:03.551	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
+2021/12/07 - 18:32:29.738	[31merror[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:36	accept tcp [::]:8888: use of closed network connection
+2021/12/07 - 18:32:53.216	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/gorm.go:52	register table success
+2021/12/07 - 18:32:53.216	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:21	use middleware logger
+2021/12/07 - 18:32:53.216	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:24	use middleware cors
+2021/12/07 - 18:32:53.216	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:26	register swagger handler
+2021/12/07 - 18:32:53.217	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/initialize/router.go:52	router register success
+2021/12/07 - 18:32:53.217	[34minfo[0m	/opt/devops/git/gin-kubernetes-devops/server/core/server.go:29	server run success on 	{"address": ":8888"}
